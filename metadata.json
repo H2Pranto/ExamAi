@@ -1,0 +1,7 @@
+{
+  "name": "ExamAi",
+  "description": "ExamAi is a powerful, self-motivating examination platform designed to live directly on your computer. Unlike cloud-based tools that require constant connectivity, ExamAi runs locally, ensuring your data stays private and your focus stays unbroken.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
